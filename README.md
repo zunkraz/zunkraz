@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Antonio, a software dev student  and student in materials science. 
-I'm currently studying in https://students.soyhenry.com/ where i'm learning technologies like  react.js, Express, Node Js, JavaScript and else more. 
+I'm currently studying in https://students.soyhenry.com/ where i'm learning technologies like  react.js, Express, Node Js, JavaScript and  more. 
 You can check my projects in https://codepen.io/zunkraz  and  visit some repos for check my works. 
 
 
