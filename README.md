@@ -11,8 +11,6 @@ I encourage you to check my repos and my portfolio in https://antonio-portfolio2
 - 📫 How to reach me: 
 You can reach out to me through the following URLs.
 
-### email: 15-11245@usb.ve
-
 ### LinkedIn: www.linkedin.com/in/zunkraz
 
 ### Portfolio https://antonio-portfolio2022.netlify.app/ 
