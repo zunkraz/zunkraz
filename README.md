@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Antonio, a software dev student  and student in materials science. 
 I'm senior Developer Mobile and FullStack. 
-CEO in Habits.AI
+CTO in Habits.AI
+
 I contribuited in [SomoUpa](https://www.somosupa.com/) and [Habits.ai](https://habits.ai/).
 
 
