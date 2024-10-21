@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Antonio, a software dev student  and student in materials science. 
-I'm Jr Developer and i graduated in https://students.soyhenry.com/ where i learned technologies like  react.js, Express, Node Js, JavaScript, PostgreSQL, MongoDB and  more. 
+I'm senior Developer Mobile and FullStack. 
 
 I contribuited in [SomoUpa](https://www.somosupa.com/) and [Habits.ai](https://habits.ai/).
 
