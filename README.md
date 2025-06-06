@@ -62,14 +62,6 @@ I'm a **Full Stack Developer** from **Caracas, Venezuela** 🇻🇪, passionate 
 
 ---
 
-### ⚡ Fun Facts
-
-- 🎮 I love creating 2D games in my free time
-- 🍇 Purple grapes are my favorite snack
-- 🎾 Tennis is my daily energy booster
-- 🌎 Passionate about learning languages and systems thinking
-
----
 
 > *"Code with empathy. Build with purpose. Deliver with clarity."*
 
