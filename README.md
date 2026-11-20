@@ -11,7 +11,7 @@
 
 ### 💼 About Me
 
-I'm a **Full Stack Developer** from **Caracas, Venezuela** 🇻🇪, passionate about building mobile-first solutions that improve people's lives. I specialize in **React Native**, **Node.js**, and integrating with health devices like smartwatches, glucose monitors, and digital scales.
+I'm a **Full Stack Developer**, passionate about building mobile-first solutions that improve people's lives. I specialize in **React Native**, **Node.js**, and integrating with health devices like smartwatches, glucose monitors, and digital scales.
 
 - 🔭 Currently CTO at **Habits.AI**
 - 🩺 Building health & fitness apps with real-world integrations
